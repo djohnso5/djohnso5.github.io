@@ -1,4 +1,4 @@
-title: Welcome to djohnso5's homepage!
+# Welcome to djohnso5's homepage!
 
 ## Welcome to GitHub Pages
 
